@@ -1,0 +1,9 @@
+H:\2017\Programming 2\Lab17\InheritanceExample5\InheritanceExample5\bin\Debug\InheritanceExample5.exe.config
+H:\2017\Programming 2\Lab17\InheritanceExample5\InheritanceExample5\bin\Debug\InheritanceExample5.exe
+H:\2017\Programming 2\Lab17\InheritanceExample5\InheritanceExample5\bin\Debug\InheritanceExample5.pdb
+H:\2017\Programming 2\Lab17\InheritanceExample5\InheritanceExample5\obj\Debug\InheritanceExample5.csprojResolveAssemblyReference.cache
+H:\2017\Programming 2\Lab17\InheritanceExample5\InheritanceExample5\obj\Debug\InheritanceExample5.Form1.resources
+H:\2017\Programming 2\Lab17\InheritanceExample5\InheritanceExample5\obj\Debug\InheritanceExample5.Properties.Resources.resources
+H:\2017\Programming 2\Lab17\InheritanceExample5\InheritanceExample5\obj\Debug\InheritanceExample5.csproj.GenerateResource.Cache
+H:\2017\Programming 2\Lab17\InheritanceExample5\InheritanceExample5\obj\Debug\InheritanceExample5.exe
+H:\2017\Programming 2\Lab17\InheritanceExample5\InheritanceExample5\obj\Debug\InheritanceExample5.pdb

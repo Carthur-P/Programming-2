@@ -1,0 +1,4 @@
+H:\IN511Programming2\Week13\Snake\Snake\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\IN511Programming2\Week13\Snake\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+H:\IN511Programming2\Week13\Snake\Snake\Snake\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\IN511Programming2\Week13\Snake\Snake\Snake\obj\x86\Debug\GenerateResource.write.1.tlog

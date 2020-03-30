@@ -1,0 +1,12 @@
+H:\2017\Programming 2\Lab #4\Animation1\Animation1\bin\Debug\Animation1.exe.config
+H:\2017\Programming 2\Lab #4\Animation1\Animation1\bin\Debug\Animation1.exe
+H:\2017\Programming 2\Lab #4\Animation1\Animation1\bin\Debug\Animation1.pdb
+H:\2017\Programming 2\Lab #4\Animation1\Animation1\obj\Debug\Animation1.csprojResolveAssemblyReference.cache
+H:\2017\Programming 2\Lab #4\Animation1\Animation1\obj\Debug\Animation1.Form1.resources
+H:\2017\Programming 2\Lab #4\Animation1\Animation1\obj\Debug\Animation1.Properties.Resources.resources
+H:\2017\Programming 2\Lab #4\Animation1\Animation1\obj\Debug\Animation1.csproj.GenerateResource.Cache
+H:\2017\Programming 2\Lab #4\Animation1\Animation1\obj\Debug\Animation1.exe
+H:\2017\Programming 2\Lab #4\Animation1\Animation1\obj\Debug\Animation1.pdb
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab #4\Animation1\Animation1\bin\Debug\Animation1.exe.config
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab #4\Animation1\Animation1\obj\Debug\Animation1.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab #4\Animation1\Animation1\obj\Debug\Animation1.pdb

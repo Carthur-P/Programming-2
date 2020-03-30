@@ -1,0 +1,8 @@
+H:\2017\Programming 2\Lab8\Grid\Grid\bin\Debug\Grid.exe.config
+H:\2017\Programming 2\Lab8\Grid\Grid\bin\Debug\Grid.exe
+H:\2017\Programming 2\Lab8\Grid\Grid\bin\Debug\Grid.pdb
+H:\2017\Programming 2\Lab8\Grid\Grid\obj\Debug\Grid.Form1.resources
+H:\2017\Programming 2\Lab8\Grid\Grid\obj\Debug\Grid.Properties.Resources.resources
+H:\2017\Programming 2\Lab8\Grid\Grid\obj\Debug\Grid.csproj.GenerateResource.Cache
+H:\2017\Programming 2\Lab8\Grid\Grid\obj\Debug\Grid.exe
+H:\2017\Programming 2\Lab8\Grid\Grid\obj\Debug\Grid.pdb

@@ -1,0 +1,9 @@
+H:\2017\Programming 2\Lab18\PolygonArea\PolygonArea\bin\Debug\PolygonArea.exe.config
+H:\2017\Programming 2\Lab18\PolygonArea\PolygonArea\bin\Debug\PolygonArea.exe
+H:\2017\Programming 2\Lab18\PolygonArea\PolygonArea\bin\Debug\PolygonArea.pdb
+H:\2017\Programming 2\Lab18\PolygonArea\PolygonArea\obj\Debug\PolygonArea.csprojResolveAssemblyReference.cache
+H:\2017\Programming 2\Lab18\PolygonArea\PolygonArea\obj\Debug\PolygonArea.Form1.resources
+H:\2017\Programming 2\Lab18\PolygonArea\PolygonArea\obj\Debug\PolygonArea.Properties.Resources.resources
+H:\2017\Programming 2\Lab18\PolygonArea\PolygonArea\obj\Debug\PolygonArea.csproj.GenerateResource.Cache
+H:\2017\Programming 2\Lab18\PolygonArea\PolygonArea\obj\Debug\PolygonArea.exe
+H:\2017\Programming 2\Lab18\PolygonArea\PolygonArea\obj\Debug\PolygonArea.pdb

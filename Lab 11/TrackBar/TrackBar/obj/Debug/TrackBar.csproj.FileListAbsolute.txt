@@ -1,0 +1,9 @@
+H:\2017\Programming 2\Lab11\TrackBar\TrackBar\bin\Debug\TrackBar.exe.config
+H:\2017\Programming 2\Lab11\TrackBar\TrackBar\bin\Debug\TrackBar.exe
+H:\2017\Programming 2\Lab11\TrackBar\TrackBar\bin\Debug\TrackBar.pdb
+H:\2017\Programming 2\Lab11\TrackBar\TrackBar\obj\Debug\TrackBar.csprojResolveAssemblyReference.cache
+H:\2017\Programming 2\Lab11\TrackBar\TrackBar\obj\Debug\TrackBar.Form1.resources
+H:\2017\Programming 2\Lab11\TrackBar\TrackBar\obj\Debug\TrackBar.Properties.Resources.resources
+H:\2017\Programming 2\Lab11\TrackBar\TrackBar\obj\Debug\TrackBar.csproj.GenerateResource.Cache
+H:\2017\Programming 2\Lab11\TrackBar\TrackBar\obj\Debug\TrackBar.exe
+H:\2017\Programming 2\Lab11\TrackBar\TrackBar\obj\Debug\TrackBar.pdb

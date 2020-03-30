@@ -1,0 +1,8 @@
+H:\2017\Programming 2\Lab7\MovingImage\MovingImage\bin\Debug\MovingImage.exe.config
+H:\2017\Programming 2\Lab7\MovingImage\MovingImage\bin\Debug\MovingImage.exe
+H:\2017\Programming 2\Lab7\MovingImage\MovingImage\bin\Debug\MovingImage.pdb
+H:\2017\Programming 2\Lab7\MovingImage\MovingImage\obj\Debug\MovingImage.Form1.resources
+H:\2017\Programming 2\Lab7\MovingImage\MovingImage\obj\Debug\MovingImage.Properties.Resources.resources
+H:\2017\Programming 2\Lab7\MovingImage\MovingImage\obj\Debug\MovingImage.csproj.GenerateResource.Cache
+H:\2017\Programming 2\Lab7\MovingImage\MovingImage\obj\Debug\MovingImage.exe
+H:\2017\Programming 2\Lab7\MovingImage\MovingImage\obj\Debug\MovingImage.pdb

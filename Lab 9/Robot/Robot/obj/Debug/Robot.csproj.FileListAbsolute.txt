@@ -1,0 +1,18 @@
+H:\2017\Programming 2\Lab9\Robot\Robot\bin\Debug\Robot.exe.config
+H:\2017\Programming 2\Lab9\Robot\Robot\bin\Debug\Robot.exe
+H:\2017\Programming 2\Lab9\Robot\Robot\bin\Debug\Robot.pdb
+H:\2017\Programming 2\Lab9\Robot\Robot\obj\Debug\Robot.csprojResolveAssemblyReference.cache
+H:\2017\Programming 2\Lab9\Robot\Robot\obj\Debug\Robot.Form1.resources
+H:\2017\Programming 2\Lab9\Robot\Robot\obj\Debug\Robot.Properties.Resources.resources
+H:\2017\Programming 2\Lab9\Robot\Robot\obj\Debug\Robot.csproj.GenerateResource.Cache
+H:\2017\Programming 2\Lab9\Robot\Robot\obj\Debug\Robot.exe
+H:\2017\Programming 2\Lab9\Robot\Robot\obj\Debug\Robot.pdb
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab9\Robot\Robot\bin\Debug\Robot.exe.config
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab9\Robot\Robot\bin\Debug\Robot.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab9\Robot\Robot\bin\Debug\Robot.pdb
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab9\Robot\Robot\obj\Debug\Robot.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab9\Robot\Robot\obj\Debug\Robot.Form1.resources
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab9\Robot\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab9\Robot\Robot\obj\Debug\Robot.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab9\Robot\Robot\obj\Debug\Robot.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab9\Robot\Robot\obj\Debug\Robot.pdb

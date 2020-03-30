@@ -1,0 +1,19 @@
+H:\2017\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\bin\Debug\HeroVsMonster.exe.config
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\bin\Debug\HeroVsMonster.exe.config
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\bin\Debug\HeroVsMonster.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\bin\Debug\HeroVsMonster.pdb
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.Form1.resources
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.Properties.Resources.resources
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.pdb
+H:\2017\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.exe
+H:\2017\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.pdb
+H:\2017\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\bin\Debug\HeroVsMonster.exe
+H:\2017\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\bin\Debug\HeroVsMonster.pdb
+H:\2017\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.csprojResolveAssemblyReference.cache
+H:\2017\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.Form1.resources
+H:\2017\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.Properties.Resources.resources
+H:\2017\Programming 2\Lab17\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.csproj.GenerateResource.Cache

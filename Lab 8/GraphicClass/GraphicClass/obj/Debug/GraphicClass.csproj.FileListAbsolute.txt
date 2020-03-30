@@ -1,0 +1,9 @@
+H:\2017\Programming 2\Lab8\GraphicClass\GraphicClass\bin\Debug\GraphicClass.exe.config
+H:\2017\Programming 2\Lab8\GraphicClass\GraphicClass\bin\Debug\GraphicClass.exe
+H:\2017\Programming 2\Lab8\GraphicClass\GraphicClass\bin\Debug\GraphicClass.pdb
+H:\2017\Programming 2\Lab8\GraphicClass\GraphicClass\obj\Debug\GraphicClass.csprojResolveAssemblyReference.cache
+H:\2017\Programming 2\Lab8\GraphicClass\GraphicClass\obj\Debug\GraphicClass.Form1.resources
+H:\2017\Programming 2\Lab8\GraphicClass\GraphicClass\obj\Debug\GraphicClass.Properties.Resources.resources
+H:\2017\Programming 2\Lab8\GraphicClass\GraphicClass\obj\Debug\GraphicClass.csproj.GenerateResource.Cache
+H:\2017\Programming 2\Lab8\GraphicClass\GraphicClass\obj\Debug\GraphicClass.exe
+H:\2017\Programming 2\Lab8\GraphicClass\GraphicClass\obj\Debug\GraphicClass.pdb

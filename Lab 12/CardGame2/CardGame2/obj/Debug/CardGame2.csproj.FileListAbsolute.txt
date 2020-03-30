@@ -1,0 +1,10 @@
+H:\2017\Programming 2\Lab12\CardGame2\CardGame2\bin\Debug\CardGame2.exe.config
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame2\CardGame2\obj\Debug\CardGame2.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame2\CardGame2\obj\Debug\CardGame2.Form1.resources
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame2\CardGame2\obj\Debug\CardGame2.Properties.Resources.resources
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame2\CardGame2\obj\Debug\CardGame2.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame2\CardGame2\bin\Debug\CardGame2.exe.config
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame2\CardGame2\bin\Debug\CardGame2.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame2\CardGame2\bin\Debug\CardGame2.pdb
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame2\CardGame2\obj\Debug\CardGame2.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame2\CardGame2\obj\Debug\CardGame2.pdb

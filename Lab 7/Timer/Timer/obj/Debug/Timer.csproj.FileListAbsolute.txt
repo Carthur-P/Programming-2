@@ -1,0 +1,9 @@
+H:\2017\Programming 2\Lab7\Timer\Timer\bin\Debug\Timer.exe.config
+H:\2017\Programming 2\Lab7\Timer\Timer\bin\Debug\Timer.exe
+H:\2017\Programming 2\Lab7\Timer\Timer\bin\Debug\Timer.pdb
+H:\2017\Programming 2\Lab7\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+H:\2017\Programming 2\Lab7\Timer\Timer\obj\Debug\Timer.Form1.resources
+H:\2017\Programming 2\Lab7\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+H:\2017\Programming 2\Lab7\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+H:\2017\Programming 2\Lab7\Timer\Timer\obj\Debug\Timer.exe
+H:\2017\Programming 2\Lab7\Timer\Timer\obj\Debug\Timer.pdb

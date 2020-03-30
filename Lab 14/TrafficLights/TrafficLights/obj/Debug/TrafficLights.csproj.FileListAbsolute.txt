@@ -1,0 +1,19 @@
+H:\2017\Programming 2\Lab14\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe.config
+H:\2017\Programming 2\Lab14\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe
+H:\2017\Programming 2\Lab14\TrafficLights\TrafficLights\bin\Debug\TrafficLights.pdb
+H:\2017\Programming 2\Lab14\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csprojResolveAssemblyReference.cache
+H:\2017\Programming 2\Lab14\TrafficLights\TrafficLights\obj\Debug\TrafficLights.Form1.resources
+H:\2017\Programming 2\Lab14\TrafficLights\TrafficLights\obj\Debug\TrafficLights.Properties.Resources.resources
+H:\2017\Programming 2\Lab14\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csproj.GenerateResource.Cache
+H:\2017\Programming 2\Lab14\TrafficLights\TrafficLights\obj\Debug\TrafficLights.exe
+H:\2017\Programming 2\Lab14\TrafficLights\TrafficLights\obj\Debug\TrafficLights.pdb
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab14\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe.config
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab14\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab14\TrafficLights\TrafficLights\bin\Debug\TrafficLights.pdb
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab14\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab14\TrafficLights\TrafficLights\obj\Debug\TrafficLights.Form1.resources
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab14\TrafficLights\TrafficLights\obj\Debug\TrafficLights.Properties.Resources.resources
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab14\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab14\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab14\TrafficLights\TrafficLights\obj\Debug\TrafficLights.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab14\TrafficLights\TrafficLights\obj\Debug\TrafficLights.pdb

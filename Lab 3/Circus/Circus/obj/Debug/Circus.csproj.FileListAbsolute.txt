@@ -1,0 +1,9 @@
+H:\2017\Programming 2\Lab #3\Circus\Circus\bin\Debug\Circus.exe.config
+H:\2017\Programming 2\Lab #3\Circus\Circus\bin\Debug\Circus.exe
+H:\2017\Programming 2\Lab #3\Circus\Circus\bin\Debug\Circus.pdb
+H:\2017\Programming 2\Lab #3\Circus\Circus\obj\Debug\Circus.csprojResolveAssemblyReference.cache
+H:\2017\Programming 2\Lab #3\Circus\Circus\obj\Debug\Circus.Form1.resources
+H:\2017\Programming 2\Lab #3\Circus\Circus\obj\Debug\Circus.Properties.Resources.resources
+H:\2017\Programming 2\Lab #3\Circus\Circus\obj\Debug\Circus.csproj.GenerateResource.Cache
+H:\2017\Programming 2\Lab #3\Circus\Circus\obj\Debug\Circus.exe
+H:\2017\Programming 2\Lab #3\Circus\Circus\obj\Debug\Circus.pdb

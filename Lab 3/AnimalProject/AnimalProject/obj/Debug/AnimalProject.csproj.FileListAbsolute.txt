@@ -1,0 +1,12 @@
+H:\2017\Programming 2\Lab #3\AnimalProject\AnimalProject\bin\Debug\AnimalProject.exe.config
+H:\2017\Programming 2\Lab #3\AnimalProject\AnimalProject\obj\Debug\AnimalProject.csprojResolveAssemblyReference.cache
+H:\2017\Programming 2\Lab #3\AnimalProject\AnimalProject\obj\Debug\AnimalProject.Form1.resources
+H:\2017\Programming 2\Lab #3\AnimalProject\AnimalProject\obj\Debug\AnimalProject.Properties.Resources.resources
+H:\2017\Programming 2\Lab #3\AnimalProject\AnimalProject\obj\Debug\AnimalProject.csproj.GenerateResource.Cache
+H:\2017\Programming 2\Lab #3\AnimalProject\AnimalProject\bin\Debug\AnimalProject.exe
+H:\2017\Programming 2\Lab #3\AnimalProject\AnimalProject\bin\Debug\AnimalProject.pdb
+H:\2017\Programming 2\Lab #3\AnimalProject\AnimalProject\obj\Debug\AnimalProject.exe
+H:\2017\Programming 2\Lab #3\AnimalProject\AnimalProject\obj\Debug\AnimalProject.pdb
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab #3\AnimalProject\AnimalProject\bin\Debug\AnimalProject.exe.config
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab #3\AnimalProject\AnimalProject\obj\Debug\AnimalProject.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab #3\AnimalProject\AnimalProject\obj\Debug\AnimalProject.pdb

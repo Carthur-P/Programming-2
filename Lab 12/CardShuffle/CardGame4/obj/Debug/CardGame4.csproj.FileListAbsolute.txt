@@ -1,0 +1,19 @@
+H:\2017\Programming 2\Lab12\CardGame4\CardGame4\bin\Debug\CardGame4.exe.config
+H:\2017\Programming 2\Lab12\CardGame4\CardGame4\bin\Debug\CardGame4.exe
+H:\2017\Programming 2\Lab12\CardGame4\CardGame4\bin\Debug\CardGame4.pdb
+H:\2017\Programming 2\Lab12\CardGame4\CardGame4\obj\Debug\CardGame4.csprojResolveAssemblyReference.cache
+H:\2017\Programming 2\Lab12\CardGame4\CardGame4\obj\Debug\CardGame4.Form1.resources
+H:\2017\Programming 2\Lab12\CardGame4\CardGame4\obj\Debug\CardGame4.Properties.Resources.resources
+H:\2017\Programming 2\Lab12\CardGame4\CardGame4\obj\Debug\CardGame4.csproj.GenerateResource.Cache
+H:\2017\Programming 2\Lab12\CardGame4\CardGame4\obj\Debug\CardGame4.exe
+H:\2017\Programming 2\Lab12\CardGame4\CardGame4\obj\Debug\CardGame4.pdb
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame4\CardGame4\obj\Debug\CardGame4.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame4\CardGame4\obj\Debug\CardGame4.Form1.resources
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame4\CardGame4\obj\Debug\CardGame4.Properties.Resources.resources
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame4\CardGame4\obj\Debug\CardGame4.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame4\CardGame4\obj\Debug\CardGame4.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame4\CardGame4\obj\Debug\CardGame4.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame4\CardGame4\obj\Debug\CardGame4.pdb
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame4\CardGame4\bin\Debug\CardGame4.exe.config
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame4\CardGame4\bin\Debug\CardGame4.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab12\CardGame4\CardGame4\bin\Debug\CardGame4.pdb

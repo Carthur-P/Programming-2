@@ -1,0 +1,19 @@
+H:\2017\Programming 2\Lab11\BouncingShapes\BouncingShapes\bin\Debug\BouncingShapes.exe.config
+H:\2017\Programming 2\Lab11\BouncingShapes\BouncingShapes\bin\Debug\BouncingShapes.exe
+H:\2017\Programming 2\Lab11\BouncingShapes\BouncingShapes\bin\Debug\BouncingShapes.pdb
+H:\2017\Programming 2\Lab11\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.csprojResolveAssemblyReference.cache
+H:\2017\Programming 2\Lab11\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.Form1.resources
+H:\2017\Programming 2\Lab11\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.Properties.Resources.resources
+H:\2017\Programming 2\Lab11\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.csproj.GenerateResource.Cache
+H:\2017\Programming 2\Lab11\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.exe
+H:\2017\Programming 2\Lab11\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.pdb
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab11\BouncingShapes\BouncingShapes\bin\Debug\BouncingShapes.exe.config
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab11\BouncingShapes\BouncingShapes\bin\Debug\BouncingShapes.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab11\BouncingShapes\BouncingShapes\bin\Debug\BouncingShapes.pdb
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab11\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab11\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.Form1.resources
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab11\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.Properties.Resources.resources
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab11\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab11\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab11\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.pdb
+C:\Users\HP\Desktop\Information Technology\Programming 2\Lab11\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.csproj.CoreCompileInputs.cache

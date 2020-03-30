@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\Information Technology\Lab #1\SumAndAverage\SumAndAverage\bin\Debug\SumAndAverage.exe.config
+C:\Users\HP\Desktop\Information Technology\Lab #1\SumAndAverage\SumAndAverage\bin\Debug\SumAndAverage.exe
+C:\Users\HP\Desktop\Information Technology\Lab #1\SumAndAverage\SumAndAverage\bin\Debug\SumAndAverage.pdb
+C:\Users\HP\Desktop\Information Technology\Lab #1\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Information Technology\Lab #1\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.Form1.resources
+C:\Users\HP\Desktop\Information Technology\Lab #1\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.Properties.Resources.resources
+C:\Users\HP\Desktop\Information Technology\Lab #1\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Information Technology\Lab #1\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.exe
+C:\Users\HP\Desktop\Information Technology\Lab #1\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.pdb
