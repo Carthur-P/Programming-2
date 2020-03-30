@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Information Technology\Programming 2\pongp1\Assignments\Pacman\Pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\HP\Desktop\Information Technology\Programming 2\pongp1\Assignments\Pacman\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\pongp1\Assignments\Pacman\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\HP\Desktop\Information Technology\Programming 2\pongp1\Assignments\Pacman\Pacman\Pacman\obj\Debug\Pacman.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\pongp1\Assignments\Pacman\Pacman\Pacman\obj\Debug\Pacman.Form1.resources
+C:\Users\HP\Desktop\Information Technology\Programming 2\pongp1\Assignments\Pacman\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Users\HP\Desktop\Information Technology\Programming 2\pongp1\Assignments\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\pongp1\Assignments\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Information Technology\Programming 2\pongp1\Assignments\Pacman\Pacman\Pacman\obj\Debug\Pacman.exe
+C:\Users\HP\Desktop\Information Technology\Programming 2\pongp1\Assignments\Pacman\Pacman\Pacman\obj\Debug\Pacman.pdb
