@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\Programming 2 Git\Checkpoints\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\Carthur\Desktop\Programming 2 Git\Checkpoints\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\Carthur\Desktop\Programming 2 Git\Checkpoints\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\Carthur\Desktop\Programming 2 Git\Checkpoints\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\Programming 2 Git\Checkpoints\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+C:\Users\Carthur\Desktop\Programming 2 Git\Checkpoints\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+C:\Users\Carthur\Desktop\Programming 2 Git\Checkpoints\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\Programming 2 Git\Checkpoints\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\Programming 2 Git\Checkpoints\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Users\Carthur\Desktop\Programming 2 Git\Checkpoints\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb

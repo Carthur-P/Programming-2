@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\Programming 2 Git\Assignments\Breakout\Breakout\Breakout\bin\Debug\Breakout.exe.config
+C:\Users\Carthur\Desktop\Programming 2 Git\Assignments\Breakout\Breakout\Breakout\bin\Debug\Breakout.exe
+C:\Users\Carthur\Desktop\Programming 2 Git\Assignments\Breakout\Breakout\Breakout\bin\Debug\Breakout.pdb
+C:\Users\Carthur\Desktop\Programming 2 Git\Assignments\Breakout\Breakout\Breakout\obj\Debug\Breakout.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\Programming 2 Git\Assignments\Breakout\Breakout\Breakout\obj\Debug\Breakout.Form1.resources
+C:\Users\Carthur\Desktop\Programming 2 Git\Assignments\Breakout\Breakout\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+C:\Users\Carthur\Desktop\Programming 2 Git\Assignments\Breakout\Breakout\Breakout\obj\Debug\Breakout.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\Programming 2 Git\Assignments\Breakout\Breakout\Breakout\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\Programming 2 Git\Assignments\Breakout\Breakout\Breakout\obj\Debug\Breakout.exe
+C:\Users\Carthur\Desktop\Programming 2 Git\Assignments\Breakout\Breakout\Breakout\obj\Debug\Breakout.pdb
