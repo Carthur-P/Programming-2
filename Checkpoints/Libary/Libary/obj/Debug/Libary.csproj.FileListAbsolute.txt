@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Libary\Libary\bin\Debug\Libary.exe.config
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Libary\Libary\bin\Debug\Libary.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Libary\Libary\bin\Debug\Libary.pdb
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Libary\Libary\obj\Debug\Libary.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Libary\Libary\obj\Debug\Libary.Form1.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Libary\Libary\obj\Debug\Libary.Properties.Resources.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Libary\Libary\obj\Debug\Libary.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Libary\Libary\obj\Debug\Libary.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Libary\Libary\obj\Debug\Libary.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Libary\Libary\obj\Debug\Libary.pdb

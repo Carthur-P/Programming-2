@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Robot\Robot\bin\Debug\Robot.exe.config
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Robot\Robot\bin\Debug\Robot.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Robot\Robot\bin\Debug\Robot.pdb
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Robot\Robot\obj\Debug\Robot.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Robot\Robot\obj\Debug\Robot.Form1.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Robot\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Robot\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Robot\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Robot\Robot\obj\Debug\Robot.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Robot\Robot\obj\Debug\Robot.pdb

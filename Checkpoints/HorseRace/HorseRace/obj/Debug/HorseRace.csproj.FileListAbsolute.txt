@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HorseRace\HorseRace\bin\Debug\HorseRace.exe.config
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HorseRace\HorseRace\bin\Debug\HorseRace.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HorseRace\HorseRace\bin\Debug\HorseRace.pdb
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HorseRace\HorseRace\obj\Debug\HorseRace.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HorseRace\HorseRace\obj\Debug\HorseRace.Form1.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HorseRace\HorseRace\obj\Debug\HorseRace.Properties.Resources.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HorseRace\HorseRace\obj\Debug\HorseRace.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HorseRace\HorseRace\obj\Debug\HorseRace.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HorseRace\HorseRace\obj\Debug\HorseRace.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HorseRace\HorseRace\obj\Debug\HorseRace.pdb

@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Form1.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Properties.Resources.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb

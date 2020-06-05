@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\MoleculeSimulation\MoleculeSimulation\bin\Debug\MoleculeSimulation.exe.config
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\MoleculeSimulation\MoleculeSimulation\bin\Debug\MoleculeSimulation.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\MoleculeSimulation\MoleculeSimulation\bin\Debug\MoleculeSimulation.pdb
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\MoleculeSimulation\MoleculeSimulation\obj\Debug\MoleculeSimulation.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\MoleculeSimulation\MoleculeSimulation\obj\Debug\MoleculeSimulation.Form1.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\MoleculeSimulation\MoleculeSimulation\obj\Debug\MoleculeSimulation.Properties.Resources.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\MoleculeSimulation\MoleculeSimulation\obj\Debug\MoleculeSimulation.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\MoleculeSimulation\MoleculeSimulation\obj\Debug\MoleculeSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\MoleculeSimulation\MoleculeSimulation\obj\Debug\MoleculeSimulation.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\MoleculeSimulation\MoleculeSimulation\obj\Debug\MoleculeSimulation.pdb

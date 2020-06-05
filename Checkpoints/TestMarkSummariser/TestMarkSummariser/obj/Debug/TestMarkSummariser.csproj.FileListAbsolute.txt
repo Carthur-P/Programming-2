@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TestMarkSummariser\TestMarkSummariser\bin\Debug\TestMarkSummariser.exe.config
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TestMarkSummariser\TestMarkSummariser\bin\Debug\TestMarkSummariser.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TestMarkSummariser\TestMarkSummariser\bin\Debug\TestMarkSummariser.pdb
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TestMarkSummariser\TestMarkSummariser\obj\Debug\TestMarkSummariser.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TestMarkSummariser\TestMarkSummariser\obj\Debug\TestMarkSummariser.Form1.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TestMarkSummariser\TestMarkSummariser\obj\Debug\TestMarkSummariser.Properties.Resources.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TestMarkSummariser\TestMarkSummariser\obj\Debug\TestMarkSummariser.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TestMarkSummariser\TestMarkSummariser\obj\Debug\TestMarkSummariser.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TestMarkSummariser\TestMarkSummariser\obj\Debug\TestMarkSummariser.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TestMarkSummariser\TestMarkSummariser\obj\Debug\TestMarkSummariser.pdb

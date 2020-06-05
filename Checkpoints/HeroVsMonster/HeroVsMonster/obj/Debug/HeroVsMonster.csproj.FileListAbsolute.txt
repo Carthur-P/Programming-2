@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeroVsMonster\HeroVsMonster\bin\Debug\HeroVsMonster.exe.config
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeroVsMonster\HeroVsMonster\bin\Debug\HeroVsMonster.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeroVsMonster\HeroVsMonster\bin\Debug\HeroVsMonster.pdb
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.Form1.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.Properties.Resources.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeroVsMonster\HeroVsMonster\obj\Debug\HeroVsMonster.pdb

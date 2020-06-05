@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe.config
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TrafficLights\TrafficLights\bin\Debug\TrafficLights.pdb
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TrafficLights\TrafficLights\obj\Debug\TrafficLights.Form1.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TrafficLights\TrafficLights\obj\Debug\TrafficLights.Properties.Resources.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TrafficLights\TrafficLights\obj\Debug\TrafficLights.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\TrafficLights\TrafficLights\obj\Debug\TrafficLights.pdb

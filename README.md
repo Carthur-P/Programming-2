@@ -15,6 +15,7 @@ Visual Studio 2017
 ## Things I learnt
 - Object-oriented programming
 - Event-driven programming
+- Basic self-driven programs
 - Inheritance
 - Classes
 - Debugging
