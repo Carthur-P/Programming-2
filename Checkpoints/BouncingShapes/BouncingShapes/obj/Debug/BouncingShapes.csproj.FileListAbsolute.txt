@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\BouncingShapes\BouncingShapes\bin\Debug\BouncingShapes.exe.config
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\BouncingShapes\BouncingShapes\bin\Debug\BouncingShapes.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\BouncingShapes\BouncingShapes\bin\Debug\BouncingShapes.pdb
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.Form1.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.Properties.Resources.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\BouncingShapes\BouncingShapes\obj\Debug\BouncingShapes.pdb

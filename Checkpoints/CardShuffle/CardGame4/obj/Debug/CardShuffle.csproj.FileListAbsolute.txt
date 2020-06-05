@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\CardShuffle\CardGame4\bin\Debug\CardGame4.exe.config
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\CardShuffle\CardGame4\bin\Debug\CardGame4.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\CardShuffle\CardGame4\bin\Debug\CardGame4.pdb
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\CardShuffle\CardGame4\obj\Debug\CardShuffle.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\CardShuffle\CardGame4\obj\Debug\CardGame4.Form1.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\CardShuffle\CardGame4\obj\Debug\CardGame4.Properties.Resources.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\CardShuffle\CardGame4\obj\Debug\CardShuffle.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\CardShuffle\CardGame4\obj\Debug\CardShuffle.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\CardShuffle\CardGame4\obj\Debug\CardGame4.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\CardShuffle\CardGame4\obj\Debug\CardGame4.pdb

@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe.config
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.pdb
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.Form1.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.Properties.Resources.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.pdb

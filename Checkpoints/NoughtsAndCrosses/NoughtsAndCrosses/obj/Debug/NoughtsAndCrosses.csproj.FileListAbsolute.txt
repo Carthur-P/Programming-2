@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\NoughtsAndCrosses\NoughtsAndCrosses\bin\Debug\NoughtsAndCrosses.exe.config
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\NoughtsAndCrosses\NoughtsAndCrosses\bin\Debug\NoughtsAndCrosses.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\NoughtsAndCrosses\NoughtsAndCrosses\bin\Debug\NoughtsAndCrosses.pdb
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\NoughtsAndCrosses.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\NoughtsAndCrosses.Form1.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\NoughtsAndCrosses.Properties.Resources.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\NoughtsAndCrosses.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\NoughtsAndCrosses.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\NoughtsAndCrosses.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\NoughtsAndCrosses\NoughtsAndCrosses\obj\Debug\NoughtsAndCrosses.pdb

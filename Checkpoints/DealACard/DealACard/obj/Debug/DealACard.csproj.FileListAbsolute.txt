@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\DealACard\DealACard\bin\Debug\DealACard.exe.config
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\DealACard\DealACard\bin\Debug\DealACard.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\DealACard\DealACard\bin\Debug\DealACard.pdb
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\DealACard\DealACard\obj\Debug\DealACard.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\DealACard\DealACard\obj\Debug\DealACard.Form1.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\DealACard\DealACard\obj\Debug\DealACard.Properties.Resources.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\DealACard\DealACard\obj\Debug\DealACard.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\DealACard\DealACard\obj\Debug\DealACard.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\DealACard\DealACard\obj\Debug\DealACard.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\DealACard\DealACard\obj\Debug\DealACard.pdb

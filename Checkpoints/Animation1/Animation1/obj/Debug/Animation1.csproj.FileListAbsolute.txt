@@ -1,0 +1,10 @@
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Animation1\Animation1\bin\Debug\Animation1.exe.config
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Animation1\Animation1\bin\Debug\Animation1.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Animation1\Animation1\bin\Debug\Animation1.pdb
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Animation1\Animation1\obj\Debug\Animation1.csprojAssemblyReference.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Animation1\Animation1\obj\Debug\Animation1.Form1.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Animation1\Animation1\obj\Debug\Animation1.Properties.Resources.resources
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Animation1\Animation1\obj\Debug\Animation1.csproj.GenerateResource.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Animation1\Animation1\obj\Debug\Animation1.csproj.CoreCompileInputs.cache
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Animation1\Animation1\obj\Debug\Animation1.exe
+C:\Users\Carthur\Desktop\GitHub\Programming 2 Git\Checkpoints\Animation1\Animation1\obj\Debug\Animation1.pdb
