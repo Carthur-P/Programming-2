@@ -1,9 +1,0 @@
-C:\Users\HP\Desktop\Information Technology\Programming 2\Lab8\MazeDraw\MazeDraw\bin\Debug\MazeDraw.exe.config
-C:\Users\HP\Desktop\Information Technology\Programming 2\Lab8\MazeDraw\MazeDraw\bin\Debug\MazeDraw.exe
-C:\Users\HP\Desktop\Information Technology\Programming 2\Lab8\MazeDraw\MazeDraw\bin\Debug\MazeDraw.pdb
-C:\Users\HP\Desktop\Information Technology\Programming 2\Lab8\MazeDraw\MazeDraw\obj\Debug\MazeDraw.csprojResolveAssemblyReference.cache
-C:\Users\HP\Desktop\Information Technology\Programming 2\Lab8\MazeDraw\MazeDraw\obj\Debug\MazeDraw.Form1.resources
-C:\Users\HP\Desktop\Information Technology\Programming 2\Lab8\MazeDraw\MazeDraw\obj\Debug\MazeDraw.Properties.Resources.resources
-C:\Users\HP\Desktop\Information Technology\Programming 2\Lab8\MazeDraw\MazeDraw\obj\Debug\MazeDraw.csproj.GenerateResource.Cache
-C:\Users\HP\Desktop\Information Technology\Programming 2\Lab8\MazeDraw\MazeDraw\obj\Debug\MazeDraw.exe
-C:\Users\HP\Desktop\Information Technology\Programming 2\Lab8\MazeDraw\MazeDraw\obj\Debug\MazeDraw.pdb
